@@ -1,0 +1,26 @@
+.recipes{
+  box-shadow: 0px 2px 10px rgb(71,71,71);
+   margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  min-width: 40%;
+}
+.title{
+  text-decoration-line: underline;
+  text-decoration-color: orangered;
+  left: 40%; 
+  top:65%;
+  font-size: 25px;
+}
+.image{
+  border-radius:50%;
+  height: 200px;
+  width: 200px;
+}
+.incd{
+  font-weight: 20px; 
+  letter-spacing: 1px;
+}

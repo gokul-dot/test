@@ -1,0 +1,9 @@
+.header{
+  font-size: 30px;
+  letter-spacing: 2px;
+  background: linear-gradient(to top, #c4c5c7 0%, #dcdddf 0%, #ebebeb6c 0%);
+}
+.x{
+  display: flex;
+  justify-content: space-around;
+}
